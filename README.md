@@ -25,6 +25,19 @@
    <hr>
 </div>
 
+## Fork
+
+Modifications apportées sur data.json en prenant en compte les données de la démo
+
+Todo :
+
+- Images des nouveaux équipements/sorts
+- Décrire tous les sorts issus de compagnons, héros et équipements
+
+Source : 
+
+- https://wavendb.com/
+
 Bienvenue sur **WavenBuilder**
 
 ## Informations
@@ -45,16 +58,16 @@ Si vous cherchez à faire une PR le fichier de données se trouve ici: `src/asse
     - <https://stackblitz.com/edit/deep-nested-reactive-form>
   - [x] Enregistrer / Charger.
     - <https://stackoverflow.com/questions/52622061/how-to-use-input-type-file-in-angular-material>
-  - [x] Ajouter [Prettier](<https://prettier.io/>): `npm run pretty`
+  - [x] Ajouter [Prettier](https://prettier.io/): `npm run pretty`
   - [x] Rendre public sur GitHub.
   - [x] Faire la GitHub Page: `npm run git`
     - <https://www.syncfusion.com/blogs/post/easy-steps-to-host-an-angular-app-in-github-pages.aspx>
 - [x] v1.1 - UI
-  - [x] Ajouter l'[autocomplete](<https://material.angular.io/components/autocomplete/overview>) pour saisir bien plus vite.
+  - [x] Ajouter l'[autocomplete](https://material.angular.io/components/autocomplete/overview) pour saisir bien plus vite.
     - <https://stackblitz.com/edit/angular-autocomplete-formarray>
 - [x] v1.2 - Version v0.08
   - [x] Reprendre dialog-equipement pour ajouter l'ancien nom dans le patch.
-  - [x] Ajouter [v0.08](<https://forum.waven-game.com/fr/4-discussions-generales/1413-encyclopedie-objets-8>)
+  - [x] Ajouter [v0.08](https://forum.waven-game.com/fr/4-discussions-generales/1413-encyclopedie-objets-8)
 - [x] v1.3 - UI
   - [x] Ajouter de la [couleur](https://www.codeproject.com/Questions/1163473/Find-a-word-in-text-and-change-the-color) sur les mots clés.
     - Regex & Méthode statique
